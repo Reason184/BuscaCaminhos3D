@@ -1,0 +1,12 @@
+C:\Users\Matheus\Documents\GitHub\3D-Pathfinding\MyProject\Intermediate\Build\Win64\UE4\DebugGame\MyProject\Definitions.MyProject.h
+C:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Matheus\Documents\GitHub\3D-Pathfinding\MyProject\Source\MyProject/MyProjectCharacter.h
+C:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RootMotionSource.generated.h
+C:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Character.generated.h
+C:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+C:\Users\Matheus\Documents\GitHub\3D-Pathfinding\MyProject\Intermediate\Build\Win64\UE4\Inc\MyProject\MyProjectCharacter.generated.h
